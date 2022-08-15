@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithms
-fd
+It consists of some projects that I made, when I learned about data structures, such as: Stack, Heap, Trees, Graph Search,...
